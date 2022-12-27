@@ -55,3 +55,4 @@
     <string name="share_app">Поділитися додатком</string>
     <string name="retry_now">Повторити зараз</string>
     <string name="error_request">Не вдалося підключитися до сервера. Будь ласка, перевірте свій Інтернет</string>
+    <string name="customize">Налаштувати</string>
