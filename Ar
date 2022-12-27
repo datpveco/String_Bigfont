@@ -55,3 +55,4 @@
     <string name="share_app">شارك التطبيق</string>
     <string name="retry_now">أعد المحاولة الآن</string>
     <string name="error_request">تعذر الاتصال بالخادم. يرجى التحقق من الإنترنت الخاص بك</string>
+    <string name="customize">يعدل أو يكيف</string>
