@@ -55,3 +55,4 @@
     <string name="share_app">Bagikan Aplikasi</string>
     <string name="retry_now">Coba lagi sekarang</string>
     <string name="error_request">Tidak dapat terhubung ke server. Silakan periksa internet Anda</string>
+    <string name="customize">Sesuaikan</string>
