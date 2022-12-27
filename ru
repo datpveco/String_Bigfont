@@ -55,3 +55,4 @@
     <string name="share_app">Поделиться приложением</string>
     <string name="retry_now">Повторить попытку</string>
     <string name="error_request">Не удалось подключиться к серверу. Пожалуйста, проверьте свой интернет</string>
+    <string name="customize">Настроить</string>
