@@ -55,3 +55,4 @@
     <string name="share_app">Chia sẻ ứng dụng</string>
     <string name="retry_now">Thử lại ngay bây giờ</string>
     <string name="error_request">Không thể kết nối với máy chủ. Vui lòng kiểm tra internet của bạn</string>
+    <string name="customize">tùy chỉnh</string>
