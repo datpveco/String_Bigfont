@@ -55,3 +55,4 @@
     <string name="share_app">分享应用</string>
     <string name="retry_now">现在重试</string>
     <string name="error_request">无法连接到服务器。 请检查您的互联网</string>
+    <string name="customize">定制</string>
