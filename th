@@ -55,3 +55,4 @@
     <string name="share_app">แชร์แอพ</string>
     <string name="retry_now">ลองใหม่ตอนนี้</string>
     <string name="error_request">ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ กรุณาตรวจสอบอินเทอร์เน็ตของคุณ</string>
+    <string name="customize"><string name="customize">Customize</string></string>
