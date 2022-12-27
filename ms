@@ -55,3 +55,4 @@
     <string name="share_app">Kongsi Apl</string>
     <string name="retry_now">Cuba semula sekarang</string>
     <string name="error_request">Tidak dapat menyambung ke pelayan. Sila semak internet anda</string>
+    <string name="customize">Sesuaikan</string>
