@@ -56,3 +56,9 @@
     <string name="share_app">Share App</string>
     <string name="retry_now">Retry now</string>
     <string name="error_request">Couldn’t connect to server. Please check your internet</string>
+    
+    
+    
+    
+    <string name="please_connect_to_internet_to_support_developer">Please connect to internet to support developer. Our application need ads to maintain service</string>
+    <string name="connect">Connect</string>
