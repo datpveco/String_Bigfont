@@ -56,3 +56,6 @@
     <string name="retry_now">Cuba semula sekarang</string>
     <string name="error_request">Tidak dapat menyambung ke pelayan. Sila semak internet anda</string>
     <string name="customize">Sesuaikan</string>
+
+    <string name="please_connect_to_internet_to_support_developer">Sila sambung ke internet untuk menyokong pembangun. Keperluan aplikasi kami mengandungi iklan untuk mengekalkan perkhidmatan</string>
+    <string name="connect">Menyambung</string>

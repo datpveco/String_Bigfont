@@ -56,3 +56,6 @@
     <string name="retry_now">现在重试</string>
     <string name="error_request">无法连接到服务器。 请检查您的互联网</string>
     <string name="customize">定制</string>
+
+    <string name="please_connect_to_internet_to_support_developer">请连接到互联网以支持开发人员。 我们的应用程序需要包含广告以维持服务</string>
+    <string name="connect">连接</string>

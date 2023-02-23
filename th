@@ -56,3 +56,6 @@
     <string name="retry_now">ลองใหม่ตอนนี้</string>
     <string name="error_request">ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ กรุณาตรวจสอบอินเทอร์เน็ตของคุณ</string>
     <string name="customize">ปรับแต่ง</string>
+
+    <string name="please_connect_to_internet_to_support_developer">โปรดเชื่อมต่ออินเทอร์เน็ตเพื่อสนับสนุนนักพัฒนา แอปพลิเคชันของเราต้องมีโฆษณาเพื่อรักษาบริการ</string>
+    <string name="connect">เชื่อมต่อ</string>

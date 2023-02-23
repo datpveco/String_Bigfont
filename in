@@ -56,3 +56,6 @@
     <string name="retry_now">Coba lagi sekarang</string>
     <string name="error_request">Tidak dapat terhubung ke server. Silakan periksa internet Anda</string>
     <string name="customize">Sesuaikan</string>
+
+    <string name="please_connect_to_internet_to_support_developer">Sambungkan ke internet untuk mendukung pengembang. Kebutuhan aplikasi kami berisi iklan untuk mempertahankan layanan</string>
+    <string name="connect">Menghubung</string>

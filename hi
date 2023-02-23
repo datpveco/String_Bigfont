@@ -56,3 +56,6 @@
     <string name="retry_now">अभी पुनः प्रयास करें</string>
     <string name="error_request">सर्वर से कनेक्ट नहीं किया जा सका. कृपया अपना इंटरनेट जांचें</string>
     <string name="customize">अनुकूलित करें</string>
+
+    <string name="please_connect_to_internet_to_support_developer">डेवलपर का समर्थन करने के लिए कृपया इंटरनेट से कनेक्ट करें। हमारे आवेदन की आवश्यकता में सेवा को बनाए रखने के लिए विज्ञापन शामिल हैं</string>
+    <string name="connect">जोड़ना</string>

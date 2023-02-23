@@ -56,3 +56,7 @@
     <string name="retry_now">Повторити зараз</string>
     <string name="error_request">Не вдалося підключитися до сервера. Будь ласка, перевірте свій Інтернет</string>
     <string name="customize">Налаштувати</string>
+
+    
+    <string name="please_connect_to_internet_to_support_developer">Підключіться до Інтернету, щоб підтримати розробника. Наш додаток потребує реклами для підтримки обслуговування</string>
+    <string name="connect">Підключитися</string>

@@ -56,3 +56,6 @@
     <string name="retry_now">Повторить попытку</string>
     <string name="error_request">Не удалось подключиться к серверу. Пожалуйста, проверьте свой интернет</string>
     <string name="customize">Настроить</string>
+
+    <string name="please_connect_to_internet_to_support_developer">Пожалуйста, подключитесь к Интернету, чтобы поддержать разработчика. Наше приложение должно содержать рекламу для поддержания сервиса</string>
+    <string name="connect">Соединять</string>

@@ -56,3 +56,6 @@
     <string name="retry_now">Tente novamente agora</string>
     <string name="error_request">Não foi possível conectar ao servidor. Verifique sua internet</string>
     <string name="customize">Customizar</string>
+
+    <string name="please_connect_to_internet_to_support_developer">Conecte-se à Internet para oferecer suporte ao desenvolvedor. Nossa necessidade de aplicativo contém anúncios para manter o serviço</string>
+    <string name="connect">Conectar</string>

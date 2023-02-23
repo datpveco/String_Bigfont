@@ -56,3 +56,6 @@
     <string name="retry_now">أعد المحاولة الآن</string>
     <string name="error_request">تعذر الاتصال بالخادم. يرجى التحقق من الإنترنت الخاص بك</string>
     <string name="customize">يعدل أو يكيف</string>
+
+    <string name="please_connect_to_internet_to_support_developer">يرجى الاتصال بالإنترنت لدعم المطور. يحتاج تطبيقنا إلى إعلانات للحفاظ على الخدمة</string>
+    <string name="connect">يتصل</string>

@@ -56,3 +56,6 @@
     <string name="retry_now">Subukan muli ngayon</string>
     <string name="error_request">Hindi makakonekta sa server. Mangyaring suriin ang iyong internet</string>
     <string name="customize">I-customize</string>
+
+    <string name="please_connect_to_internet_to_support_developer">Mangyaring kumonekta sa internet upang suportahan ang developer. Ang aming pangangailangan sa application ay naglalaman ng mga ad upang mapanatili ang serbisyo</string>
+    <string name="connect">Kumonekta</string>

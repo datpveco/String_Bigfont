@@ -56,3 +56,6 @@
     <string name="retry_now">Thử lại ngay bây giờ</string>
     <string name="error_request">Không thể kết nối với máy chủ. Vui lòng kiểm tra internet của bạn</string>
     <string name="customize">tùy chỉnh</string>
+
+    <string name="please_connect_to_internet_to_support_developer">Xin hãy kết nối internet để ủng hộ nhà phát triển. Ứng dụng của chúng tôi cần chứa quảng cáo để duy trì</string>
+    <string name="connect">Kết nối</string>
